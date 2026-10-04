@@ -1,4 +1,4 @@
-# Hi, I'm William Chan
+# Hi, I'm William
 
 I'm a developer based in Vancouver, building projects across Python, Java, C++, Lua, and web development. My work ranges from practical web applications and data-structure exercises to Linux desktop automation.
 
